@@ -1,3 +1,7 @@
+1. [正版](https://github.com/GitHub-Laziji/vblog)
+2. [正版演示](https://github-laziji.github.io/)
+3. [修改版](https://github.com/Grunning/VBlog)
+4. [修改版演示](http://www.gaodb.com/user/new/main)
 # VBlog
 
 ![](https://img.shields.io/github/languages/top/github-laziji/VBlog.svg?style=flat)
